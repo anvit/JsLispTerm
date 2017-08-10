@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+body {
+    background-color: #002626;
+}
+
+.terminal {
+  --color: rgba(149, 198, 35, 0.99);
+  --background: #002626;
+  --animation: terminal-bar;
+}
